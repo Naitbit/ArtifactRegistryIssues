@@ -1,0 +1,124 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+        applicationId "com.byoutline.artifactregistryconfigexample"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    implementation project(':subprojects:s1')
+    implementation project(':subprojects:s2')
+    implementation project(':subprojects:s3')
+    implementation project(':subprojects:s4')
+    implementation project(':subprojects:s5')
+    implementation project(':subprojects:s6')
+    implementation project(':subprojects:s7')
+    implementation project(':subprojects:s8')
+    implementation project(':subprojects:s9')
+    implementation project(':subprojects:s10')
+    implementation project(':subprojects:s11')
+    implementation project(':subprojects:s12')
+    implementation project(':subprojects:s13')
+    implementation project(':subprojects:s14')
+    implementation project(':subprojects:s15')
+    implementation project(':subprojects:s16')
+    implementation project(':subprojects:s17')
+    implementation project(':subprojects:s18')
+    implementation project(':subprojects:s19')
+    implementation project(':subprojects:s20')
+    implementation project(':subprojects:s21')
+    implementation project(':subprojects:s22')
+    implementation project(':subprojects:s23')
+    implementation project(':subprojects:s24')
+    implementation project(':subprojects:s25')
+    implementation project(':subprojects:s26')
+    implementation project(':subprojects:s27')
+    implementation project(':subprojects:s28')
+    implementation project(':subprojects:s29')
+    implementation project(':subprojects:s30')
+    implementation project(':subprojects:s31')
+    implementation project(':subprojects:s32')
+    implementation project(':subprojects:s33')
+    implementation project(':subprojects:s34')
+    implementation project(':subprojects:s35')
+    implementation project(':subprojects:s36')
+    implementation project(':subprojects:s37')
+    implementation project(':subprojects:s38')
+    implementation project(':subprojects:s39')
+    implementation project(':subprojects:s40')
+    implementation project(':subprojects:s41')
+    implementation project(':subprojects:s42')
+    implementation project(':subprojects:s43')
+    implementation project(':subprojects:s44')
+    implementation project(':subprojects:s45')
+    implementation project(':subprojects:s46')
+    implementation project(':subprojects:s47')
+    implementation project(':subprojects:s48')
+    implementation project(':subprojects:s49')
+    implementation project(':subprojects:s50')
+    implementation project(':subprojects:s51')
+    implementation project(':subprojects:s52')
+    implementation project(':subprojects:s53')
+    implementation project(':subprojects:s54')
+    implementation project(':subprojects:s55')
+    implementation project(':subprojects:s56')
+    implementation project(':subprojects:s57')
+    implementation project(':subprojects:s58')
+    implementation project(':subprojects:s59')
+    implementation project(':subprojects:s60')
+    implementation project(':subprojects:s61')
+    implementation project(':subprojects:s62')
+    implementation project(':subprojects:s63')
+    implementation project(':subprojects:s64')
+    implementation project(':subprojects:s65')
+    implementation project(':subprojects:s66')
+    implementation project(':subprojects:s67')
+    implementation project(':subprojects:s68')
+    implementation project(':subprojects:s69')
+    implementation project(':subprojects:s70')
+    implementation project(':subprojects:s71')
+    implementation project(':subprojects:s72')
+    implementation project(':subprojects:s73')
+    implementation project(':subprojects:s74')
+    implementation project(':subprojects:s75')
+    implementation project(':subprojects:s76')
+    implementation project(':subprojects:s77')
+    implementation project(':subprojects:s78')
+    implementation project(':subprojects:s79')
+    implementation project(':subprojects:s80')
+    implementation project(':subprojects:s81')
+    implementation project(':subprojects:s82')
+    implementation project(':subprojects:s83')
+    implementation project(':subprojects:s84')
+    implementation project(':subprojects:s85')
+    implementation project(':subprojects:s86')
+    implementation project(':subprojects:s87')
+    implementation project(':subprojects:s88')
+    implementation project(':subprojects:s89')
+    implementation project(':subprojects:s90')
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.core:core-ktx:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+}

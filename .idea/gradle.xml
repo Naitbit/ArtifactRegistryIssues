@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/subprojects" />
+            <option value="$PROJECT_DIR$/subprojects/s1" />
+            <option value="$PROJECT_DIR$/subprojects/s10" />
+            <option value="$PROJECT_DIR$/subprojects/s11" />
+            <option value="$PROJECT_DIR$/subprojects/s12" />
+            <option value="$PROJECT_DIR$/subprojects/s13" />
+            <option value="$PROJECT_DIR$/subprojects/s14" />
+            <option value="$PROJECT_DIR$/subprojects/s15" />
+            <option value="$PROJECT_DIR$/subprojects/s16" />
+            <option value="$PROJECT_DIR$/subprojects/s17" />
+            <option value="$PROJECT_DIR$/subprojects/s18" />
+            <option value="$PROJECT_DIR$/subprojects/s19" />
+            <option value="$PROJECT_DIR$/subprojects/s2" />
+            <option value="$PROJECT_DIR$/subprojects/s20" />
+            <option value="$PROJECT_DIR$/subprojects/s21" />
+            <option value="$PROJECT_DIR$/subprojects/s22" />
+            <option value="$PROJECT_DIR$/subprojects/s23" />
+            <option value="$PROJECT_DIR$/subprojects/s24" />
+            <option value="$PROJECT_DIR$/subprojects/s25" />
+            <option value="$PROJECT_DIR$/subprojects/s26" />
+            <option value="$PROJECT_DIR$/subprojects/s27" />
+            <option value="$PROJECT_DIR$/subprojects/s28" />
+            <option value="$PROJECT_DIR$/subprojects/s29" />
+            <option value="$PROJECT_DIR$/subprojects/s3" />
+            <option value="$PROJECT_DIR$/subprojects/s30" />
+            <option value="$PROJECT_DIR$/subprojects/s31" />
+            <option value="$PROJECT_DIR$/subprojects/s32" />
+            <option value="$PROJECT_DIR$/subprojects/s33" />
+            <option value="$PROJECT_DIR$/subprojects/s34" />
+            <option value="$PROJECT_DIR$/subprojects/s35" />
+            <option value="$PROJECT_DIR$/subprojects/s36" />
+            <option value="$PROJECT_DIR$/subprojects/s37" />
+            <option value="$PROJECT_DIR$/subprojects/s38" />
+            <option value="$PROJECT_DIR$/subprojects/s39" />
+            <option value="$PROJECT_DIR$/subprojects/s4" />
+            <option value="$PROJECT_DIR$/subprojects/s40" />
+            <option value="$PROJECT_DIR$/subprojects/s41" />
+            <option value="$PROJECT_DIR$/subprojects/s42" />
+            <option value="$PROJECT_DIR$/subprojects/s43" />
+            <option value="$PROJECT_DIR$/subprojects/s44" />
+            <option value="$PROJECT_DIR$/subprojects/s45" />
+            <option value="$PROJECT_DIR$/subprojects/s46" />
+            <option value="$PROJECT_DIR$/subprojects/s47" />
+            <option value="$PROJECT_DIR$/subprojects/s48" />
+            <option value="$PROJECT_DIR$/subprojects/s49" />
+            <option value="$PROJECT_DIR$/subprojects/s5" />
+            <option value="$PROJECT_DIR$/subprojects/s50" />
+            <option value="$PROJECT_DIR$/subprojects/s51" />
+            <option value="$PROJECT_DIR$/subprojects/s52" />
+            <option value="$PROJECT_DIR$/subprojects/s53" />
+            <option value="$PROJECT_DIR$/subprojects/s54" />
+            <option value="$PROJECT_DIR$/subprojects/s55" />
+            <option value="$PROJECT_DIR$/subprojects/s56" />
+            <option value="$PROJECT_DIR$/subprojects/s57" />
+            <option value="$PROJECT_DIR$/subprojects/s58" />
+            <option value="$PROJECT_DIR$/subprojects/s59" />
+            <option value="$PROJECT_DIR$/subprojects/s6" />
+            <option value="$PROJECT_DIR$/subprojects/s60" />
+            <option value="$PROJECT_DIR$/subprojects/s61" />
+            <option value="$PROJECT_DIR$/subprojects/s62" />
+            <option value="$PROJECT_DIR$/subprojects/s63" />
+            <option value="$PROJECT_DIR$/subprojects/s64" />
+            <option value="$PROJECT_DIR$/subprojects/s65" />
+            <option value="$PROJECT_DIR$/subprojects/s66" />
+            <option value="$PROJECT_DIR$/subprojects/s67" />
+            <option value="$PROJECT_DIR$/subprojects/s68" />
+            <option value="$PROJECT_DIR$/subprojects/s69" />
+            <option value="$PROJECT_DIR$/subprojects/s7" />
+            <option value="$PROJECT_DIR$/subprojects/s70" />
+            <option value="$PROJECT_DIR$/subprojects/s71" />
+            <option value="$PROJECT_DIR$/subprojects/s72" />
+            <option value="$PROJECT_DIR$/subprojects/s73" />
+            <option value="$PROJECT_DIR$/subprojects/s74" />
+            <option value="$PROJECT_DIR$/subprojects/s75" />
+            <option value="$PROJECT_DIR$/subprojects/s76" />
+            <option value="$PROJECT_DIR$/subprojects/s77" />
+            <option value="$PROJECT_DIR$/subprojects/s78" />
+            <option value="$PROJECT_DIR$/subprojects/s79" />
+            <option value="$PROJECT_DIR$/subprojects/s8" />
+            <option value="$PROJECT_DIR$/subprojects/s80" />
+            <option value="$PROJECT_DIR$/subprojects/s81" />
+            <option value="$PROJECT_DIR$/subprojects/s82" />
+            <option value="$PROJECT_DIR$/subprojects/s83" />
+            <option value="$PROJECT_DIR$/subprojects/s84" />
+            <option value="$PROJECT_DIR$/subprojects/s85" />
+            <option value="$PROJECT_DIR$/subprojects/s86" />
+            <option value="$PROJECT_DIR$/subprojects/s87" />
+            <option value="$PROJECT_DIR$/subprojects/s88" />
+            <option value="$PROJECT_DIR$/subprojects/s89" />
+            <option value="$PROJECT_DIR$/subprojects/s9" />
+            <option value="$PROJECT_DIR$/subprojects/s90" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
