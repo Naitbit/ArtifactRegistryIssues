@@ -99,6 +99,9 @@ buildscript {
     }
     dependencies {
         classpath "gradle.plugin.com.google.cloud.artifactregistry:artifactregistry-gradle-plugin:2.0.1"
+     // Workaround for Gradle 6 incompatibility
+     // https://github.com/GoogleCloudPlatform/artifact-registry-maven-tools/issues/27
+        classpath "com.google.guava:guava:27.1-jre"
     }
 }
 
